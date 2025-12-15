@@ -22,4 +22,4 @@ defaults:
     layout: page
 permalink: pretty
 plugins:
-  - jekyll-feed
+- jekyll-feed
