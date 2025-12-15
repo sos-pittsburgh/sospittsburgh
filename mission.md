@@ -1,10 +1,10 @@
 ---
 title: Mission
 permalink: "/mission/"
-layout: page
 description: The mission of Save Our Symphony Pittsburgh is to promote and support
   the world-class excellence and stature of the Pittsburgh Symphony Orchestra and
   to ensure its preservation in our community for future generations.
+layout: page
 ---
 
 ### Strategic Vision
@@ -40,7 +40,7 @@ To achieve our mission and fulfill our vision, SOSP will be engaging the communi
 
 __Board__
 
-- Alice Gelormino, Chair
+- Alice Gelormino, Treasurer
 - Geoffrey McGovern, Vice Chair
 - Kathy Maskalick, Treasurer
 - David Maskalick, Secretary
