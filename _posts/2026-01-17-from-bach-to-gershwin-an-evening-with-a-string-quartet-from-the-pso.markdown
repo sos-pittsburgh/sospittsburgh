@@ -7,7 +7,7 @@ tags:
 - recital
 - music
 - performance
-Description: Save Our Symphony Pittsburgh invites you to a private house concert in
+description: Save Our Symphony Pittsburgh invites you to a private house concert in
   Point Breeze with Pittsburgh Symphony Orchestra musicians Jennifer Orchard, Dylan
   Naroff, Tatiana Chamis, and Charlie Powers. Get to know your PSO musicians with
   an intimate recital featuring music by Bach, Haydn, Mendelssohn, Puccini and Gershwin.
