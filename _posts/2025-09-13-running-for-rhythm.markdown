@@ -15,22 +15,16 @@ description: The concert will be informal, interactive, and family-friendly with
 layout: post
 ---
 
-Free Concert!
+## From Bach to Gershwin
 
-## Running for Rhythm
+An evening with a string quartet from the PSO
 
-From Jazz to Classical
+### Saturday, January 17, 2026, 6.30pm in Point Breeze
 
-### Saturday, September 13, 2025, 2.00pm at Attack Theatre Studio, 212 45th Street, Pittsburgh (Lawrenceville)
-
-> The concert will be informal, interactive, and family-friendly with arrangements of favorites from jazz to classical. There is no cost to reserve tickets but 100% of your free-will donations will go towards providing instruments for children, bus transportation to "SchoolTime" concerts at Heinz Hall, music scores, and more in the Pittsburgh public schools.
->
-> Performances by Musicians of the Pittsburgh Symphony Orchestra and friends -- Dennis O'Boyle, John Moore, Jennifer Steele, Jack Howell, James Rogers, and Conrad Jones.
+> Save Our Symphony Pittsburgh invites you to a private house concert in Point Breeze with Pittsburgh Symphony Orchestra musicians Jennifer Orchard, Dylan Naroff, Tatiana Chamis, and Charlie Powers. Get to know your PSO musicians with an intimate recital featuring music by Bach, Haydn, Mendelssohn, Puccini and Gershwin.
 
 **Event Details**
 
-| **WHEN:**  | 2.00 P.M. Saturday, September 13 |
-| **TICKETS FREE | FAMILIES WELCOME** |
-| **RSVP:**  | Limited seating | [Reserve your seats here!](https://www.eventbrite.com/e/running-for-rhythm-registration-1633066298259) |
-
-Sign up to run [The Musicians of Steel 5k](https://runsignup.com/Race/PA/Pittsburgh/MusiciansofSteel5KRunWalk) on Sunday, September 21 at 9:00am at the Millvale Riverfront Park.
+| **WHEN:**  |Saturday, January 17, 2026 |Doors open at 6.30 pm |Performance at 7.00 pm|Wine Reception at 8.00 pm|
+| **TICKETS:** | $50.00 |
+| **RSVP:**  | Limited seating | [Reserve your seats here!](https://save-our-symphony-pittsburgh.square.site/) |
