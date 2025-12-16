@@ -1,5 +1,5 @@
 ---
-title: Running for Rhythm
+title: From Bach to Gershwin
 date: 2025-09-13 14:00:00 -04:00
 categories:
 - events
