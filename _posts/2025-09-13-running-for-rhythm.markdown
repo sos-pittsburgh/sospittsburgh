@@ -1,7 +1,6 @@
 ---
 title: Running for Rhythm
 date: 2025-09-13 14:00:00 -04:00
-published: false
 categories:
 - events
 tags:
