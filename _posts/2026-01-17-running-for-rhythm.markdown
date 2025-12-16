@@ -1,6 +1,6 @@
 ---
 title: From Bach to Gershwin
-date: 2025-09-13 14:00:00 -04:00
+date: 2026-01-17 18:30:00 -05:00
 categories:
 - events
 tags:
