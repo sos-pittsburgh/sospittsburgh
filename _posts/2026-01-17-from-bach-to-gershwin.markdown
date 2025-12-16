@@ -1,6 +1,13 @@
 ---
 title: From Bach to Gershwin
-date: 2025-12-16 14:32:00 -05:00
+date: 2026-01-17 18:30:00 -05:00
+categories:
+- event
+- events
+tags:
+- recital
+- performance
+- music
 description: Save Our Symphony Pittsburgh invites you to a private house concert in
   Point Breeze with Pittsburgh Symphony Orchestra musicians.
 ---
