@@ -3,6 +3,7 @@ title: From Bach to Gershwin
 date: 2026-01-17 18:30:00 -05:00
 categories:
 - events
+- event
 tags:
 - recital
 - music
