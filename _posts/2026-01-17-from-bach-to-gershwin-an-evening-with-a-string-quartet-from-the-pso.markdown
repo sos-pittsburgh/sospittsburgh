@@ -1,6 +1,12 @@
 ---
 title: From Bach to Gershwin
-date: 2025-12-16 10:23:00 -05:00
+date: 2026-01-17 18:30:00 -05:00
+categories:
+- events
+tags:
+- recital
+- music
+- performance
 Description: Save Our Symphony Pittsburgh invites you to a private house concert in
   Point Breeze with Pittsburgh Symphony Orchestra musicians Jennifer Orchard, Dylan
   Naroff, Tatiana Chamis, and Charlie Powers. Get to know your PSO musicians with
