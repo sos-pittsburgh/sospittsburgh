@@ -8,6 +8,9 @@ tags:
 - music
 - recital
 - performance
+description: Come meet the musicians for an hour of informal, interactive music in
+  support of music in the Pittsburgh Public Schools. This concert is a prelude to
+  the Musicians of Steel 5K Run/Walk on Sunday, Sept. 21, 2025.
 ---
 
 Recital #20
