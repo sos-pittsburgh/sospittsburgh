@@ -1,5 +1,5 @@
 ---
-title: From Bach to Gershwin
+title: Sold Out - From Bach to Gershwin
 date: 2026-01-17 18:30:00 -05:00
 categories:
 - event
@@ -12,7 +12,7 @@ description: Save Our Symphony Pittsburgh invites you to a private house concert
   Point Breeze with Pittsburgh Symphony Orchestra musicians.
 ---
 
-## From Bach to Gershwin
+## Sold Out - From Bach to Gershwin
 
 An evening with a string quartet from the PSO
 
