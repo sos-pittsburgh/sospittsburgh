@@ -1,6 +1,6 @@
 ---
 title: Past Events - Running for Rhythm
-date: 2026-02-17 21:26:00 -05:00
+date: 2025-09-13 14:00:00 -04:00
 categories:
 - event
 - events
