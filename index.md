@@ -29,7 +29,7 @@ layout: default
 <div class="row">
 <div class="12u">
 	<header class="major">
-		<h2>Rescue Recitals and Upcoming Events
+		<h2>Recitals and Upcoming Events
 		</h2>
 	</header>
 </div>
@@ -68,8 +68,8 @@ layout: default
 			<p>First and formost, buy an <a href="https://pittsburghsymphony.org/pso_home/web/tickets-landing">annual subscription</a> to the PSO, attend concerts often and if you can, donate to the PSO's <a href="https://pittsburghsymphony.org/pso_home/web/give-landing" target="_blank">annual fund</a></p>
 		</section>
 		<section>
-			<h3>2. Host a Rescue Recital</h3>
-			<p>Attend or host an SOS Pittsburgh Rescue Recital; an in-home concert where you get to experience world class music up close. <a href="/rescuerecitals">Learn more</a></p>
+			<h3>2. Host a Recital</h3>
+			<p>Attend or host an SOS Pittsburgh Recital; an in-home concert where you get to experience world class music up close. <a href="/rescuerecitals">Learn more</a></p>
 		</section>
 	</div>
 	<div class="features-row">
@@ -216,7 +216,7 @@ layout: default
 
 		<section class="box special">
 			<h3>Join Us</h3>
-			<p>Sign up to our mailing list for updates, info on rescue recitals and more</p>
+			<p>Sign up to our mailing list for updates, info on recitals and more</p>
 
 			{% include mailchimp.html %}
 
